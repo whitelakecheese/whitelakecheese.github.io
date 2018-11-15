@@ -486,6 +486,9 @@ h6,
 #ext_menu-0 SPAN {
   font-size: 25px;
 }
+#ext_menu-0 A {
+  font-size: 13px;
+}
 #header1-1 .btn {
   font-size: 15px;
   font-family: 'Oswald', sans-serif;
@@ -588,6 +591,9 @@ h6,
 #ext_menu-3 SPAN {
   font-size: 25px;
 }
+#ext_menu-3 A {
+  font-size: 13px;
+}
 #contacts4-4 UL {
   color: #ffffff;
 }
@@ -661,6 +667,9 @@ h6,
 }
 #ext_menu-9 SPAN {
   font-size: 25px;
+}
+#ext_menu-9 A {
+  font-size: 13px;
 }
 #contacts4-a UL {
   color: #ffffff;
@@ -736,6 +745,9 @@ h6,
 #ext_menu-e SPAN {
   font-size: 25px;
 }
+#ext_menu-e A {
+  font-size: 13px;
+}
 #contacts4-f UL {
   color: #ffffff;
 }
@@ -810,11 +822,17 @@ h6,
 #ext_menu-i SPAN {
   font-size: 25px;
 }
+#ext_menu-i A {
+  font-size: 13px;
+}
 #contacts4-j UL {
   color: #ffffff;
 }
 #form1-q .form-control-label {
   color: #232323;
+}
+#content1-s P {
+  text-align: center;
 }
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
@@ -882,6 +900,9 @@ h6,
 }
 #ext_menu-o SPAN {
   font-size: 25px;
+}
+#ext_menu-o A {
+  font-size: 13px;
 }
 #contacts4-p UL {
   color: #ffffff;
@@ -952,6 +973,9 @@ h6,
 }
 #ext_menu-t SPAN {
   font-size: 25px;
+}
+#ext_menu-t A {
+  font-size: 13px;
 }
 #contacts4-u UL {
   color: #ffffff;
@@ -1026,6 +1050,9 @@ h6,
 }
 #ext_menu-10 SPAN {
   font-size: 25px;
+}
+#ext_menu-10 A {
+  font-size: 13px;
 }
 #msg-box7-16 .mbr-section-title,
 #msg-box7-16 .lead p {
@@ -1109,6 +1136,22 @@ h6,
 #ext_menu-1i SPAN {
   font-size: 25px;
 }
+#ext_menu-1i A {
+  font-size: 13px;
+}
+#features4-4r .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4r .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4r P {
+  text-align: left;
+}
+#features4-4r H4 {
+  text-align: left;
+}
 #contacts4-1j UL {
   color: #ffffff;
 }
@@ -1182,6 +1225,22 @@ h6,
 }
 #ext_menu-2a SPAN {
   font-size: 25px;
+}
+#ext_menu-2a A {
+  font-size: 13px;
+}
+#features4-4t .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4t P {
+  text-align: left;
+}
+#features4-4t H4 {
+  text-align: left;
 }
 #contacts4-2d UL {
   color: #ffffff;
@@ -1257,6 +1316,22 @@ h6,
 #ext_menu-2f SPAN {
   font-size: 25px;
 }
+#ext_menu-2f A {
+  font-size: 13px;
+}
+#features4-4u .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4u .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4u H4 {
+  text-align: left;
+}
+#features4-4u P {
+  text-align: left;
+}
 #contacts4-2i UL {
   color: #ffffff;
 }
@@ -1330,6 +1405,9 @@ h6,
 }
 #ext_menu-2k SPAN {
   font-size: 25px;
+}
+#ext_menu-2k A {
+  font-size: 13px;
 }
 #contacts4-2n UL {
   color: #ffffff;
@@ -1405,6 +1483,9 @@ h6,
 #ext_menu-2p SPAN {
   font-size: 25px;
 }
+#ext_menu-2p A {
+  font-size: 13px;
+}
 #contacts4-2s UL {
   color: #ffffff;
 }
@@ -1478,6 +1559,9 @@ h6,
 }
 #ext_menu-2u SPAN {
   font-size: 25px;
+}
+#ext_menu-2u A {
+  font-size: 13px;
 }
 #contacts4-2x UL {
   color: #ffffff;
@@ -1553,6 +1637,9 @@ h6,
 #ext_menu-2z SPAN {
   font-size: 25px;
 }
+#ext_menu-2z A {
+  font-size: 13px;
+}
 #contacts4-32 UL {
   color: #ffffff;
 }
@@ -1626,6 +1713,9 @@ h6,
 }
 #ext_menu-34 SPAN {
   font-size: 25px;
+}
+#ext_menu-34 A {
+  font-size: 13px;
 }
 #contacts4-37 UL {
   color: #ffffff;
@@ -1701,6 +1791,9 @@ h6,
 #ext_menu-39 SPAN {
   font-size: 25px;
 }
+#ext_menu-39 A {
+  font-size: 13px;
+}
 #contacts4-3c UL {
   color: #ffffff;
 }
@@ -1774,6 +1867,9 @@ h6,
 }
 #ext_menu-3e SPAN {
   font-size: 25px;
+}
+#ext_menu-3e A {
+  font-size: 13px;
 }
 #contacts4-3h UL {
   color: #ffffff;
@@ -1849,6 +1945,9 @@ h6,
 #ext_menu-3j SPAN {
   font-size: 25px;
 }
+#ext_menu-3j A {
+  font-size: 13px;
+}
 #contacts4-3m UL {
   color: #ffffff;
 }
@@ -1922,6 +2021,9 @@ h6,
 }
 #ext_menu-3o SPAN {
   font-size: 25px;
+}
+#ext_menu-3o A {
+  font-size: 13px;
 }
 #contacts4-3r UL {
   color: #ffffff;
@@ -1997,6 +2099,9 @@ h6,
 #ext_menu-3y SPAN {
   font-size: 25px;
 }
+#ext_menu-3y A {
+  font-size: 13px;
+}
 #contacts4-41 UL {
   color: #ffffff;
 }
@@ -2070,6 +2175,9 @@ h6,
 }
 #ext_menu-48 SPAN {
   font-size: 25px;
+}
+#ext_menu-48 A {
+  font-size: 13px;
 }
 #contacts4-4b UL {
   color: #ffffff;
@@ -2145,6 +2253,9 @@ h6,
 #ext_menu-4d SPAN {
   font-size: 25px;
 }
+#ext_menu-4d A {
+  font-size: 13px;
+}
 #contacts4-4g UL {
   color: #ffffff;
 }
@@ -2218,6 +2329,9 @@ h6,
 }
 #ext_menu-4m SPAN {
   font-size: 25px;
+}
+#ext_menu-4m A {
+  font-size: 13px;
 }
 #contacts4-4p UL {
   color: #ffffff;
