@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLake",
-    "currentPage": "index.html",
+    "currentPage": "COW-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4141,9 +4141,9 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#a38f84"
           },
-          "title": "White Lake - Sheeps' Milk Cheese\n",
+          "title": "Sheeps' Milk Cheese\n",
           "meta": "",
           "_tags": [
             "Theme"
@@ -5648,9 +5648,9 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#544d4b"
+            "bgColor": "#a38f84"
           },
-          "title": "White Lake - Cows' Milk Cheese\n",
+          "title": "Cows' Milk Cheese\n",
           "meta": "Here is all of our Cows' milk cheese&nbsp;",
           "_tags": [
             "Theme"
@@ -7894,9 +7894,9 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#a38f84"
           },
-          "title": "White Lake - Goats' Milk Cheese\n",
+          "title": "Goats' Milk Cheese\n",
           "meta": "",
           "_tags": [
             "Theme"
